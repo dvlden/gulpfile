@@ -6,8 +6,8 @@ import loadPlugins from 'gulp-load-plugins';
 
 let DEV = true;
 const VHOST = {
-    'src': 'clashofclanshack.src',
-    'dest': 'clashofclanshack.dest'
+    'src': 'project.src',
+    'dest': 'project.dest'
 };
 
 const $ = loadPlugins();
